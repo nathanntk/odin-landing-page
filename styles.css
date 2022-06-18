@@ -3,3 +3,18 @@
     background: #1F2937;
     display: flex;
 }
+
+.container-two {
+    height: 225px;
+    display: flex;
+}
+
+.container-three {
+    height: 225px;
+    background: #E5E7EB;
+    display: flex;
+}
+
+.container-four {
+    display: flex;
+}

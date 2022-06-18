@@ -7,6 +7,35 @@ html, body {
     min-height: 100%;
     background: #1F2937;
     display: flex;
+    justify-content: center;
+}
+
+.header-logo {
+    color: white;
+    /*margin-left: 150px;*/
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.link-one {
+    color: white;
+    margin-left: 300px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.link-two {
+    color: white;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.link-three {
+    color: white;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 16px;
 }
 
 .container-two {

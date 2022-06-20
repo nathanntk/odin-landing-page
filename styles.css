@@ -165,3 +165,19 @@ img {
     font-size: 12px;
     width: 120px;
 }
+
+.container-five {
+    background: #E5E7EB;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.quote {
+    font-style: light italic;
+    font-size: 21px;
+    color: #1F2937;
+    width: 600px;
+    margin-bottom: 50px;
+}

@@ -168,7 +168,7 @@ img {
 
 .container-five {
     background: #E5E7EB;
-    height: 200px;
+    height: 100px;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -179,5 +179,34 @@ img {
     font-size: 21px;
     color: #1F2937;
     width: 600px;
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.container-six {
+    background: #E5E7EB;
+    height: 50px;
+    justify-content: center;
+    display: flex;
+}
+
+.thor {
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+.container-seven {
+    background: #3882F6;
+    height: 125px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.container-eight {
+    background: #1F2937;
+    height: 100px;
+    margin-top: 50px;
 }

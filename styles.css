@@ -195,19 +195,19 @@ img {
     margin-left: 300px;
 }
 
+.container-sevens-con {
+    display: flex;
+    justify-content: center;
+}
+
 .container-seven {
     background: #3882F6;
     height: 100px;
     width: 700px;
-    margin-top: 50px;
     border-radius: 10px;
-    justify-content: center;
-    align-items: center;
 
-    top: 50%;
-    left: 50%;
     position: absolute;
-    transform: translate(-50%, 280%);
+    margin-top: 35px;
 }
 
 .action {
